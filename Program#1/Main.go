@@ -13,6 +13,7 @@ func main() {
 		sum += num1
 		fmt.Printf("Your current sum is %d\n", sum)
 	}
-	fmt.Printf("Your total sum is : %v", sum)
+	fmt.Printf("Your total sum is : %v\n", sum)
+	fmt.Println("Thank you")
 
 }
